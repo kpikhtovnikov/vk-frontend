@@ -1,4 +1,4 @@
-# vk-frontend
+# vk-frontend - test application
 
 # Запуск проекта
 ## npm install
